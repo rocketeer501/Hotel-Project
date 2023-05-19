@@ -5,7 +5,11 @@ Tools used for this are Microsoft SQL Server 2022, Microsoft SQL Server Manageme
 
 The hotel_revenue_historical_full-2.xlsx is the dataset used for querying data
 
-Hotel Project.sql is the SSMS file used for querying the imported .xlsx file data
+Parking spaces required.sql is the query for finding total parking spaces needed per reservation date
+
+Total Revenue.sql query is the query for finding total revenue. It takes the adr along with any discounts and multiplies it on the sum of week nights and weekend nights. It then adds the cost of meals.
+
+Hotel Project.sql is the query used to prepare the data for Power BI. It's a union between the 2018,2019,2020 tables as a table called hotels as well as a join on the hotels table from the market segment and meal cost tables
 
 Hotel Project.pbix is the Power BI data visualization file
 
