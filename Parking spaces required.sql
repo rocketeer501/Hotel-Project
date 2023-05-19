@@ -11,7 +11,7 @@ ON hotels.market_segment=dbo.market_segment$.market_segment
 left join dbo.meal_cost$
 ON meal_cost$.meal=hotels.meal
 GROUP BY reservation_status_date
-ORDER BY reservation_status_date
+ORDER BY reservation_status_date ASC
 
 
 
