@@ -1,11 +1,11 @@
 # Hotel-Project
 This project serves as an introduction to SQL querying and data visualization through Power BI
 
-It was done following this video, https://www.youtube.com/watch?v=S2zBHmkRbhY but I made my own queries to give a more accurate data visualization
+It was done following this video, https://www.youtube.com/watch?v=S2zBHmkRbhY but I made my own queries to give a more accurate data visualization.
 
-Tools used for this are Microsoft SQL Server 2022, Microsoft SQL Server Management Studio 2019, and Microsoft Power BI Desktop
+Tools used for this are Microsoft SQL Server 2022, Microsoft SQL Server Management Studio 2019, and Microsoft Power BI Desktop.
 
-The hotel_revenue_historical_full-2.xlsx is the dataset used for querying data
+The hotel_revenue_historical_full-2.xlsx is the dataset used for querying data.
 
 Parking spaces required.sql is the query for finding total parking spaces needed per reservation date.
 
