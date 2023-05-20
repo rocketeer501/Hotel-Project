@@ -1,5 +1,5 @@
 # Hotel-Project
-This project serves as an introduction to SQL querying and data visualization through Power BI
+This project serves as an introduction to SQL querying and data visualization through Power BI.
 
 It was done following this video, https://www.youtube.com/watch?v=S2zBHmkRbhY but I made my own queries to give a more accurate data visualization.
 
